@@ -5,7 +5,7 @@
 
 int main() {
     setlocale(LC_ALL, "RUS");
-    
+    // Объявление переменных для ввода и вывода данных
     char a1;
     char a2[100];
     size_t a3;
